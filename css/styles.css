@@ -83,6 +83,10 @@ button {
     font-family: var(--paragraphs-font);
 }
 
+.attribution_p {
+    color: #000;
+}
+
 .attribution, a {
     text-align: center;
 }
